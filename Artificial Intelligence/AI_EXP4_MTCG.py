@@ -1,8 +1,5 @@
 # EXP4: Man Tiger Cow Grass Problem
 # Name: Pratiksha Jain
-# Roll no: 19101B2009
-# BE INFT - B
-
 
 # Problem:
 #
