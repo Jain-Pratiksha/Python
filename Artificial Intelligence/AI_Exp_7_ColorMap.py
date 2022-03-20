@@ -1,7 +1,5 @@
 # EXP 7: Colour Map Problem
 # Name: Pratiksha Jain
-# Roll no: 19101B2009
-# BE INFT - B
 
 
 # To create region with name and color
