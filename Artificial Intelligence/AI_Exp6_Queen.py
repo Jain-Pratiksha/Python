@@ -1,7 +1,6 @@
 # EXP6: Queen Problem
 # Name: Pratiksha Jain
-# Roll no: 19101B2009
-# BE INFT - B
+
 
 # Python program to solve N Queen
 
