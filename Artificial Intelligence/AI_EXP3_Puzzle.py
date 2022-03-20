@@ -1,7 +1,5 @@
 # EXP3: 8 Puzzle problem using heuristic search
 # Name: Pratiksha Jain
-# Roll no: 19101B2009
-# BE INFT - B
 
 # * 8 puzzle is a game where we have to arrange 8 title in a sequence (1,2,3,4,5,6,7,8,blank_tite) fitted in 3*3 matrix
 # * Initially title may not be in sequence so we have to check where is blank tile, and we can swap blank tile with its adjacent tile
