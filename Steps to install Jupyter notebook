@@ -1,0 +1,8 @@
+#Steps to install jupyter notebook
+
+1. Open CMD
+2. pip install jupyter (in cmd - run administrator mode or else Python/Scripts/ path where your pip file is there)
+3. Then in respective folder (where you want your code)
+run: jupyter notebook (in cmd)
+this will open browser (link can be seen in cmd)
+4. On browser: New -> Python3 (this will open the notebook)
